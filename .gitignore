@@ -1,0 +1,12 @@
+# Secrets
+config.py
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Runtime data
+shortcuts.json
+*.log
